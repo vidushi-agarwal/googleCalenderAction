@@ -1,0 +1,6 @@
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/mnt/c/Users/Vidushi/Desktop/googleCal/Django-Dialogflow-Appointment-Scheduler/google-cloud-sdk/path.bash.inc' ]; then . '/mnt/c/Users/Vidushi/Desktop/googleCal/Django-Dialogflow-Appointment-Scheduler/google-cloud-sdk/path.bash.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/mnt/c/Users/Vidushi/Desktop/googleCal/Django-Dialogflow-Appointment-Scheduler/google-cloud-sdk/completion.bash.inc' ]; then . '/mnt/c/Users/Vidushi/Desktop/googleCal/Django-Dialogflow-Appointment-Scheduler/google-cloud-sdk/completion.bash.inc'; fi
