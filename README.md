@@ -1,10 +1,11 @@
 #  Dialogflow Appointment Scheduler 
-Please check this [website](https://appointmentscheduler-xxktmx.appspot.com/chat) for the implementation of appointment scheduler.
+
 
 [Dialogflow](https://dialogflow.com) is a web client to chat with Dialogflow agent Appointment Scheduler.
 
-![alt text](app-image.png)
+![alt text](demo.gif)
 
+Please check this [website](https://appointmentscheduler-xxktmx.appspot.com/chat) for the implementation of appointment scheduler.
 ## Architecture
 ![alt text](Architecture-image.png)
 
